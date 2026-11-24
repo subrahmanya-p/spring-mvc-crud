@@ -1,0 +1,8 @@
+target/
+.settings/
+.project
+.classpath
+src/main/resources/META-INF/persistence.xml
+*.class
+.idea/
+.vscode/
