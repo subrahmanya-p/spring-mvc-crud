@@ -9,5 +9,7 @@
 <body>
 
 <h1>Data Saved!</h1>
+
+<a href="fetch"> View All</a>
 </body>
 </html>
